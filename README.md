@@ -21,3 +21,4 @@ If I had the talent to write a song or paint a painting, I might have. But I don
 - Singer, Peter. "Famine, Affluence, and Morality." *Philosophy & Public Affairs*, vol. 1, no. 3, 1972, pp. 229-243.
 
 
+//test
