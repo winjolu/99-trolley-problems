@@ -1,10 +1,17 @@
-# I Got 99 Problems But a Runaway Trolley Ain't One
+
+<div style="position: relative; display: inline-block; width: 50%;">
+  <img src="assets\dead-trolleys.jpg" alt="Sartre tied to tracks" style="width: 100%;">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px;">
+    I Got 99 Problems But a Runaway Trolley That I Can Re-direct by Throwing a Lever Ain't One 
+  </h1>
+</div>
 
 
 
-If I had the talent to write a song or paint a painting, I might have. But I don't. So here are some trolley memes I dialed up to convey my argument. This project explores the absurdity of modern life dominated by technocracy and bureaucracy. I'm hiding behind bad jokes to mask my own lack of talent and poor time management. Drawing inspiration from Le Guin's "The Ones Who Walk Away from Omelas," Kafka's *The Trial*, and *In the Penal Colony*, Foucault's *Discipline and Punish*, Bauman's *Modernity and the Holocaust*, and Graeber's *The Utopia of Rules*, I examine how our blind faith in automated systems and bureaucratic red tape perpetuates injustice and dehumanization. The techno-bureaucratic utopia is a cruel joke with a lousy punchline: the baby is us, life ain't fair, and you're going to be dead soon. Enjoy the memes.
+## What This Is
+If I had the talent to write a song or paint a painting, I might have. But I don't. So here are some trolley memes I dialed up to convey my argument. This project explores the absurdity of modern life dominated by technocracy and bureaucracy. I'm hiding behind bad jokes to mask my own lack of talent and poor time management. Drawing inspiration from Le Guin's "The Ones Who Walk Away from Omelas," Kafka's *The Trial*, and *In the Penal Colony*, Foucault's *Discipline and Punish*, Bauman's *Modernity and the Holocaust*, and Graeber's *The Utopia of Rules* among others, I examine how our blind faith in automated systems and bureaucratic red tape perpetuates injustice and dehumanization. The techno-bureaucratic utopia is a cruel joke with a lousy punchline: the child in the basement is us, life ain't fair, and you're going to be dead soon. Enjoy the memes.
 
-## Works Cited
+## Works Cited (or, more precisely, works that inspired me)
 
 - Arendt, Hannah. *The Origins of Totalitarianism*. Harcourt, Brace & World, 1951.
 - Bauman, Zygmunt. *Modernity and the Holocaust*. Cornell University Press, 1989.
