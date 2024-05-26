@@ -19,6 +19,7 @@ The formula is pretty simple really. Start with one of the hgihly exploitable im
 Then apply some snark and elementary image manipulation skills. The result should roughly approximate this image (which does not *necessarily* describe my own views on anything, except trollley memes as an online cultural phenomenon):
 ![voters dilemma](assets\voters-trolley.jpg)
 
+If it still doesn't make sense, you should probably get out of the house more. That said, [Know Your Meme](https://knowyourmeme.com/memes/the-trolley-problem#fn1) is a good resource for these things.
 
 ## But WTF is THIS Anyway???
 ### '...first as a tragedy, second as a farce.' 
