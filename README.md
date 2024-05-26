@@ -10,7 +10,7 @@
 
 ## What This Is
 ### '...first as a tragedy, second as a farce.' 
-If I had the talent to write a song or paint a painting, I might have. But I don't. So here are some trolley problem memes I dialed up to convey my argument. This project explores the absurdity of modern life dominated by technocracy and bureaucracy. I'm hiding behind bad jokes to mask my own lack of talent and poor time management. Drawing inspiration from Le Guin's "The Ones Who Walk Away from Omelas," Kafka's *The Trial*, and *In the Penal Colony*, Foucault's *Discipline and Punish*, Bauman's *Modernity and the Holocaust*, and Graeber's *The Utopia of Rules* among others, I examine how our blind faith in automated systems and bureaucratic red tape perpetuates injustice and dehumanization. The techno-bureaucratic utopia some of us imagine we inhabit is a cruel joke with a lousy punchline: the child in the basement is us, life ain't fair, and you're going to be dead soon. Enjoy the memes.
+If I had the talent to write a song or paint a painting, I might have. But I don't. So here are some trolley problem memes I dialed up to convey my argument. This project explores the absurdity of modern life dominated by technocracy and bureaucracy. I'm hiding behind bad jokes to mask my own lack of talent and poor time management. Drawing inspiration from Le Guin's "The Ones Who Walk Away from Omelas," Kafka's *The Trial*, and *In the Penal Colony*, Foucault's *Discipline and Punish*, Bauman's *Modernity and the Holocaust*, and the late great David Graeber's *The Utopia of Rules* (among others), I examine how our blind faith in automated systems and bureaucratic red tape perpetuates injustice and dehumanization. The techno-bureaucratic utopia some of us imagine we inhabit is a cruel joke with a lousy punchline: the child in the basement is us, life ain't fair, and you're going to be dead soon. Enjoy the memes.
 
 ## Works Cited (or, more precisely, works that inspired me)
 
@@ -31,3 +31,5 @@ If I had the talent to write a song or paint a painting, I might have. But I don
 - Singer, Peter. "Famine, Affluence, and Morality." *Philosophy & Public Affairs*, vol. 1, no. 3, 1972, pp. 229-243.
 
 
+## Acknowledgments
+The person responsible for this drivel wishes to express his profound gratitude to Professor Sarah Burns at MiraCosta College for her suppport, encouragement, and generally putting up with me. Also, thanks are due to all the other half-wit jokers on the web who have reduced much of humankind's most brilliant theory to so many corny one-liners with visual aids. 
