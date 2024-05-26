@@ -13,8 +13,8 @@ Opinions on the ethics of each scenario turn out to be sensitive to details of t
 
 ## What's a Trolley Meme?
 The formula is pretty simple really. Start with one of the hgihly exploitable images for the trolley problem or the fat man variant, originally found on Jesse Prinz's site https://en.wikipedia.org/wiki/Trolley_problem :
-![trolley template](assets\Trolley_1.jpg)
-![fat man template](assets\Trolley_2.jpg)
+![trolley template](C:\Users\Winston\OneDrive\Documents\github\99-trolley-problems\assets\Trolley_1.jpg)
+![fat man template](C:\Users\Winston\OneDrive\Documents\github\99-trolley-problems\assets\Trolley_1.jpg)
 
 Then apply some snark and elementary image manipulation skills. The result should roughly approximate this image (which does not *necessarily* describe my own views on anything, except trollley memes as an online cultural phenomenon):
 ![voters dilemma](assets\voters-trolley.jpg)
