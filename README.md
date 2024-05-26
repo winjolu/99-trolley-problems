@@ -12,8 +12,8 @@ From [*Wikipedia*: ](https://en.wikipedia.org/wiki/Trolley_problem) "The trolley
 Opinions on the ethics of each scenario turn out to be sensitive to details of the story that may seem immaterial to the abstract dilemma. The question of formulating a general principle that can account for the differing judgments arising in different variants of the story was raised in 1967 as part of an analysis of debates on abortion and the doctrine of double effect by the English philosopher Philippa Foot.[1] Later dubbed "the trolley problem" by Judith Jarvis Thomson in a 1976 article that catalyzed a large literature, the subject refers to the meta-problem of why different judgements are arrived at in particular instances."
 
 ## What's a Trolley Meme?
-The formula is pretty simple really. Start with one of the hgihly exploitable images for the trolley problem or the fat man variant, originally found on Jesse Prinz's site https://en.wikipedia.org/wiki/Trolley_problem :
-![trolley template](C:\Users\Winston\OneDrive\Documents\github\99-trolley-problems\assets\Trolley_1.jpg)
+The formula is pretty simple really. Start with one of the hgihly exploitable images for the trolley problem or the fat man variant, originally found on Jesse Prinz's site [subcortex](http://subcortex.com/). 
+![trolley template](http://subcortex.com/pictures/Trolley_1.jpg)
 ![fat man template](C:\Users\Winston\OneDrive\Documents\github\99-trolley-problems\assets\Trolley_1.jpg)
 
 Then apply some snark and elementary image manipulation skills. The result should roughly approximate this image (which does not *necessarily* describe my own views on anything, except trollley memes as an online cultural phenomenon):
